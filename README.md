@@ -1,2 +1,3 @@
-# payzio
-Payzio - Next.js project
+# Payzio
+
+A Next.js project.
